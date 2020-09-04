@@ -189,8 +189,8 @@ img {
     var app = new Vue({
         el: '#app',
         data: {
-            first_name: 'Mr',
-            last_name: 'Springle',
+            first_name: 'Springle',
+            last_name: 'Oll',
             profile_img: 'file:///C:/Users/User/Pictures/anime/islands-300.jpg',
             profile_background: 'file:///C:/Users/User/Pictures/my%20atrs/Screenshot%20(244)2.png',
             social_links: {
